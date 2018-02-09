@@ -1,0 +1,2 @@
+# pansy
+Eureka server
